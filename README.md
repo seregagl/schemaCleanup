@@ -1,5 +1,5 @@
 Finds unused types defined in a XML schema file.
-Usage: ./SchemaCleanup.py schema.xsd
+Usage: ./schemaCleanup.py schema.xsd
 
 Limitations:
   * quick & dirty
